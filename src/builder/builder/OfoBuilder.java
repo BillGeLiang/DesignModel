@@ -2,7 +2,7 @@ package builder.builder;
 
 import builder.product.Bike;
 
-public class OfoBuilder implements Builder{
+public class OfOBuilder implements Builder{
 	private Bike bike=new Bike();
 	
 	@Override

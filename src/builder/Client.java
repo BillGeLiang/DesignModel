@@ -2,7 +2,7 @@ package builder;
 
 import builder.builder.Builder;
 import builder.builder.MobikeBuilder;
-import builder.builder.OfoBuilder;
+import builder.builder.OfOBuilder;
 import builder.product.Bike;
 import builder.product.BikeV2;
 
