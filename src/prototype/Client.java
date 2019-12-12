@@ -1,4 +1,4 @@
-package prototyoe;
+package prototype;
 
 import prototyoe.deepCopy.AnotherDeepObject;
 import prototyoe.deepCopy.DeepPrototype;
