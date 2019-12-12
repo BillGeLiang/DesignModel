@@ -1,4 +1,4 @@
-package prototyoe.deepCopy;
+package prototype.deepCopy;
 
 /**
  * 深度复制原型对象

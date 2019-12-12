@@ -1,9 +1,9 @@
 package prototype;
 
-import prototyoe.deepCopy.AnotherDeepObject;
-import prototyoe.deepCopy.DeepPrototype;
-import prototyoe.shadowCopy.AnotherShadowObject;
-import prototyoe.shadowCopy.ShadowPrototypeObject;
+import prototype.deepCopy.AnotherDeepObject;
+import prototype.deepCopy.DeepPrototype;
+import prototype.shadowCopy.AnotherShadowObject;
+import prototype.shadowCopy.ShadowPrototypeObject;
 
 public class Client {
 	

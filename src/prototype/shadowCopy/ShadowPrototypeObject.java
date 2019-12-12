@@ -1,4 +1,4 @@
-package prototyoe.shadowCopy;
+package prototype.shadowCopy;
 
 /**
  * 浅拷贝原型对象

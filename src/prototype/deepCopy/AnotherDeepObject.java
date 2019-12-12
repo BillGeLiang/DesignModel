@@ -1,4 +1,4 @@
-package prototyoe.deepCopy;
+package prototype.deepCopy;
 
 public class AnotherDeepObject implements Cloneable {
 	private String name;

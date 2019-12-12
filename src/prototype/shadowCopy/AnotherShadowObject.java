@@ -1,4 +1,4 @@
-package prototyoe.shadowCopy;
+package prototype.shadowCopy;
 
 public class AnotherShadowObject {
 	private String key;
