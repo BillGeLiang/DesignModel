@@ -5,6 +5,20 @@ import java.util.List;
 
 public class Client {
 	public static void main(String[] args){
+		
+		/**
+		 * 结果：
+		 * 这是一只位置在x:4.5	 y:4的white棋子
+			这是一只位置在x:4.5	 y:4的white棋子
+			这是一只位置在x:3	 y:7的black棋子
+			这是一只位置在x:3	 y:7的black棋子
+			对象个数为:2
+		 */
+		test();
+		
+	}
+	
+	public static void test(){
 		String black="black";
 		String white="white";
 		//新建一个工厂
