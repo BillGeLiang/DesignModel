@@ -1,4 +1,4 @@
-package strategyPattern;
+package strategyPattern.strategy_pay;
 
 /**
  * Ö§¸¶·½Ê½

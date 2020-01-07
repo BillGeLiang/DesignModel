@@ -1,4 +1,9 @@
-package strategyPattern;
+package strategyPattern.context;
+
+import strategyPattern.strategy_pay.AbsPayment;
+import strategyPattern.strategy_pay.AliPay;
+import strategyPattern.strategy_pay.BankPay;
+import strategyPattern.strategy_pay.WeixinPay;
 
 /**
  * 支付上下文(支付渠道)

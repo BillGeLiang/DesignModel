@@ -1,5 +1,11 @@
 package strategyPattern;
 
+import strategyPattern.context.PayContext;
+import strategyPattern.strategy_pay.AbsPayment;
+import strategyPattern.strategy_pay.AliPay;
+import strategyPattern.strategy_pay.BankPay;
+import strategyPattern.strategy_pay.WeixinPay;
+
 public class Client {
 	public static void main(String[] args){
 		/**
