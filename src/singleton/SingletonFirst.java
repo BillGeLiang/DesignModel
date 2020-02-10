@@ -13,6 +13,10 @@ public class SingletonFirst {
 	private static SingletonFirst uniqueInstance;
 	
 	private SingletonFirst(){}
+	/**
+	 * 线程非安全
+	 * @return
+	 */
 	public static SingletonFirst getInstance(){
 		if(uniqueInstance==null)
 			uniqueInstance=new SingletonFirst();

@@ -56,7 +56,7 @@ public class Client {
 						.getClass().getInterfaces(), nonOwnerHandler);
 
 		/**
-		 * 方法测试
+		 * 方法测试 
 		 */
 
 		System.out.println("用户自身测试=============>");

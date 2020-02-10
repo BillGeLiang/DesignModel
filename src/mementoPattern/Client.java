@@ -28,7 +28,7 @@ public class Client {
 		 */
 		Role euonyMusRole=new Role(100, 200, 244, "精力充沛");
 		euonyMusRole.checkState();
-		//先在备份文件管理器中存个档,提高失误率
+		//先在备份文件管理器中存个档,提高成功率
 		taker.setMemento(euonyMusRole.createMemento());
 		System.out.println("存档成功....");
 		System.out.println("==============>");

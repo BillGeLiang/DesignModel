@@ -51,7 +51,7 @@ public class BikeV2 {
 		}
 
 		public BikeV2 build() {
-			return new BikeV2(this);
+			return new BikeV2(this);//将自身对象载入bike中作为bike的属性使用
 		}
 	}
 }
